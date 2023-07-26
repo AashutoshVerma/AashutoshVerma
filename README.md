@@ -1,7 +1,7 @@
 #  Aashutosh Verma
 
 # 💫 About Me:
-🔭 I’m currently working on Backend Development.<br>👯 I have also explored Cyber-Security pretty much. <br>🤝 let's do something great together, lets correlate and collabarate<br>🌱 I’m currently learning Full Stack Web Development and UI/UX<br>💬 Have any suggestion/Question, instantly throw at me. <br>⚡ Fun fact is if you are seeing my profile then I must have done something good  : )
+🔭 I’m currently working on Backend Development.<br>👯 I have also explored Cyber-Security pretty much. <br>🤝 let's do something great together, lets correlate and collabarate<br>🌱 I’m currently learning Full Stack Web Development and UI/UX<br>💬 Have any suggestion/Question, instantly throw at me. <br>⚡ **Fun fact is if you are seeing my profile then I must have done something good**  : )
 
 
 ## 🌐 Socials:
